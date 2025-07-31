@@ -1,7 +1,7 @@
 name: battle_search_overlay
 description: "A Flutter package that helps you build beautiful animated Searching Opponent overlays for battle-style apps."
 version: 0.0.1
-homepage:
+homepage: https://github.com/sharmajatin1997/battle_search_overlay
 
 environment:
   sdk: ^3.8.1

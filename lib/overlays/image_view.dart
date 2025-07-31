@@ -2,7 +2,6 @@ import 'package:battle_search_overlay/generated/assets.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
-
 /// A circular user avatar widget that displays a network image.
 ///
 /// If the image fails to load or is still loading, it falls back to
