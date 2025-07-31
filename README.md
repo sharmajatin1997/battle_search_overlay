@@ -160,10 +160,10 @@ class _BattleState extends State<Battle> {
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/6063de74-fee3-4f19-91cc-f2c4927f86e1" width="350" height="600">
+        <img src="https://github.com/user-attachments/assets/6063de74-fee3-4f19-91cc-f2c4927f86e1" width="300" height="600">
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/ac07a3cd-1d1b-47b9-8e4c-8ade9785adeb" width="350" height="600">
+        <img src="https://github.com/user-attachments/assets/ac07a3cd-1d1b-47b9-8e4c-8ade9785adeb" width="300" height="600">
       </td>
     </tr>
   </tbody>
