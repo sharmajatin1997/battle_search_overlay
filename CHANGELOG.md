@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
-* TODO: Describe initial release.
+* A Flutter package that helps you build beautiful animated Searching Opponent overlays for battle-style apps.

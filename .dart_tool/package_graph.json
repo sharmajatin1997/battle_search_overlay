@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "battle_search_overlay",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "dependencies": [
         "cached_network_image",
         "flutter"
